@@ -41,6 +41,6 @@ I'm always open to new opportunities where I can apply my skills and collaborate
 
 ### Github Stats
 
-<img align="left" alt="YOURNAME's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&hide_border=true" />
+<img align="left" alt="YOURNAME's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AMACAFELLA&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/YOURPROFILE
