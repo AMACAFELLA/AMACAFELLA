@@ -1,48 +1,37 @@
 <div align="center">
 
-## 🎩 Welcome to the Magical World of Angus Macapella 🚀
+## 👋 Welcome to Angus Macapella's Code Command Center
 
 </div>
 
-```markdown
-# 📜 Once upon a time in [Your Location], a developer named [Your Name] began a coding journey...
+```shell
+$ whoami
+> Greetings! I'm Angus Macapella, a coding virtuoso with a penchant for innovation.
 
-## 🌟 Chapter 1: The Genesis
+$ echo "I'm a master of Typescript, React and NextJS and a builder of dreams."
+> I'm a master of Typescript, React and NextJS and a builder of dreams. 🚀
 
-In the realm of ones and zeros, I, [Your Name], embarked on a quest to transform lines of code into digital wonders. ✨
+$ ls projects
+> My Projects:
+> - [Project 1](https://github.com/AMACAFELLA/you_are_wrong)
+> - [Project 2](https://github.com/AMACAFELLA/baadmovies)
 
-## 🚀 Chapter 2: Superpowers Unleashed
+$ cat current_focus.txt
+> Currently, I'm on a quest to master [mention what you're learning].
 
-With skills as my trusty companions:
-- ⚡️ [Skill 1]
-- 🌐 [Skill 2]
-- 🔮 [Skill 3]
-- 🚀 [Skill 4]
+$ cat reading.txt
+> Reading: [mention what you're currently reading].
 
-I conjured magnificent creations that challenged the limits of technology.
+$ open contact.md
+> Reach out for a coding collaboration or just a friendly chat!
 
-## 🏆 Chapter 3: Feats of Glory
+$ connect --twitter
+> [Twitter](https://twitter.com/yourusername)
 
-Behold, my legendary projects:
-- 🌌 [Project 1](https://github.com/your-username/project-1)
-- 🌟 [Project 2](https://github.com/your-username/project-2)
+$ connect --linkedin
+> [LinkedIn](https://linkedin.com/in/yourusername)
 
-These digital relics showcase my prowess in the art of coding.
+$ github-stats
+> GitHub Stats:
 
-## 🧙‍♂️ Chapter 4: The Quest Continues
-
-But the journey continues! As a wizard of the web, I'm always ready to tackle new enchanting challenges. What's next in this mystical adventure?
-
-## 🌐 Chapter 5: Connect with Me
-
-Want to be a part of this magical odyssey? Contact me through the ancient scrolls:
-- 🏰 [Portfolio Website](https://your-portfolio-website.com)
-- 🦉 [Email](mailto:youremail@email.com)
-- 📜 [Twitter](https://twitter.com/yourusername)
-- 🔮 [LinkedIn](https://linkedin.com/in/yourusername)
-
-## 📊 Chapter 6: Mystical GitHub Stats
-
-Gaze upon my GitHub spellbook:
-
-[![Angus Macapella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/AMACAFELLA)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/AMACAFELLA)
