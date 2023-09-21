@@ -1,7 +1,5 @@
 <div align="center">
 
-# !Angus Macapella(https://your-image-url.com/your-image.jpg)
-
 ## 🎩 Welcome to the Magical World of Angus Macapella 🚀
 
 </div>
