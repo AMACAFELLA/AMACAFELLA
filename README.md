@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where the worlds of coding and music converge. I'm
 ### 👨‍💻 Coding Life
 
 - 💻 I'm a software developer with a love for problem-solving and creativity.
-- 🚀 My favorite languages include Python, JavaScript, and Java.
+- 🚀 My favorite languages include Typescript, JavaScript, and Java.
 - 🛠️ I enjoy working with tools like VS Code, Git, and Terminal.
 
 ### 🎶 Music World
