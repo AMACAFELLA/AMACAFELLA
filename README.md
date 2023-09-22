@@ -25,7 +25,9 @@ user@github:~$ latest projects
 
 user@github:~$ stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMACAFELLA&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+$ echo "GitHub Stats:"
+
+$ curl https://github-readme-stats.vercel.app/api?username=AMACAFELLA&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMACAFELLA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
