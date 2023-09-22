@@ -5,6 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AMACAFELLA?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AMACAFELLA?label=Stars&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=AMACAFELLA)
+![GitHub Profile Views Counter](https://github-profile-views.com/AMACAFELLA/AMACAFELLA.svg)
 
 Welcome to my GitHub profile, where the worlds of coding and music converge. I'm passionate about both, and I believe they complement each other beautifully. Let me tell you a bit about myself:
 
