@@ -16,12 +16,6 @@ I'm passionate about coding and music, and I believe they complement each other 
 
 - 🎵 Music is my other passion, and I'm always exploring new genres and artists to get me coding.
 
-### GitHub Stats 📊
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMACAFELLA&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMACAFELLA&layout=compact&theme=default)
-
 ### Spotify Jams 🎧
 
 [![Now Playing on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=angus.macapella1&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
